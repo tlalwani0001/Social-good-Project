@@ -35,13 +35,9 @@ Dataset: https://www.kaggle.com/code/nelgiriyewithana/an-introduction-to-top-spo
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-
-![UML Diagram for my project](nameOfImageFileHere.png) 
-
+![alt text](image.png)
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
-
-
 The purpose of this application is to print information out about the most streamed songs of 2023. 
 It also prints information about a desired artist such as total streams a given artist has and the amount of times that artist shows up  in the charts.
