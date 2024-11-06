@@ -5,8 +5,14 @@ public class UserStory {
   /*
   *This is the 1D array of Chart objects
   */
-  
   private Chart[] data;    
+
+  /*
+  *No-Argument Constructor
+  */
+  public UserStory() {
+      this.data = new Chart[0]; 
+    }
 
   /*
   *takes three file names (songsFile, streamsFile, artistFile) 
